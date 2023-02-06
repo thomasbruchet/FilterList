@@ -5,6 +5,21 @@
 # --------------------------------------------
 # 
 
+# d3ward.github.io/toolz/adblock
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+advertising.twitter.com
+widgets.pinterest.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics5.data.hicloud.com 
+samsung-com.112.2o7.net
+
+
 # Log4j
 1.116.59.211
 1.14.17.89
